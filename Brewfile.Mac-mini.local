@@ -2,6 +2,9 @@ brew "mas"
 brew "root"
 brew "zsh"
 cask "firefox"
+cask "jetbrains-toolbox"
+cask "steam"
+cask "whatsapp"
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
